@@ -6,3 +6,4 @@ The system integrates video data with sensors like accelerometers and gyroscopes
 When a potential crime is detected, the system alerts authorities with real-time data, including location, video footage, and sensor readings, enabling immediate intervention. Additionally, AI-driven anomaly detection predicts suspicious behavior by analyzing movement, proximity, and patterns, allowing preemptive action. This adaptable system can be deployed in crowded public spaces or residential areas and integrated with existing security infrastructure.
 
 By combining real-time detection, weapon recognition, and automated alerts, this project introduces an innovative approach to public safety, making urban environments safer through advanced threat detection and proactive response.
+![WhatsApp Image 2025-03-04 at 09 50 50_1f6dfb86](https://github.com/user-attachments/assets/68bb057d-a986-4171-9eae-683d6d5821b7)
